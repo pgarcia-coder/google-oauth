@@ -1,0 +1,28 @@
+{
+  "name": "google-oauth",
+  "version": "1.0.0",
+  "description": "Node google oauth project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgarcia-coder/google-oauth.git"
+  },
+  "keywords": [
+    "node",
+    "google",
+    "oauth"
+  ],
+  "author": "pgarcia-coder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgarcia-coder/google-oauth/issues"
+  },
+  "homepage": "https://github.com/pgarcia-coder/google-oauth#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
